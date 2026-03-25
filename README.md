@@ -106,7 +106,7 @@ docker run -p 8501:8501 churn-app
 ```
 Then open:
 
-http://localhost:8501
+http://localhost:8502
 
 ### 📊 Example
 
